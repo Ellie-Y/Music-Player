@@ -4,4 +4,4 @@
 <p> Run the command below to install them </p>
 <pre> npm install </pre> 
  
-<img src = "https://github.com/Ellie-Y/Music-Player/blob/master/sample.gif height: 500px">
+<img src = "https://github.com/Ellie-Y/Music-Player/blob/master/sample.gif" height: "500px" >
