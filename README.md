@@ -1,5 +1,5 @@
 # Music-Player
 
-The plugins that need to rely on are all in the devDependencies.
-Run `npm init` to install them 
+<p> The plugins that need to rely on are all in the devDependencies.</p>
+<p> Run `npm init` to install them </p>
  
