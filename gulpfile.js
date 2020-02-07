@@ -39,7 +39,6 @@ gulp.task('html', function() {
 //压缩图片
 gulp.task('image', function() {
     gulp.src(folder.src + 'image/*')
-        // .pipe(imageMin()) 报错
         .pipe(connect.reload())
         //没有 html文件会自动生成, dest 是把文件写入到某地
         .pipe(gulp.dest(folder.dist + 'images/'));
